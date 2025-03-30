@@ -8,6 +8,7 @@
 
 #include "video.hpp"
 #include "audio.hpp"
+#include "audio_stream_ffmpeg.hpp"
 #include "gozen_error.hpp"
 
 using namespace godot;
